@@ -1,6 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Simple frontend websites using HTML and CSS, and exploring backend basics for a study-visa consultancy website. I’m also practicing beginner-level Python.<br>👯 I’m looking to collaborate on Beginner-friendly projects such as simple websites, small Python programs, UI designs, and learning-based tech projects.<br>🤝 I’m looking for help with Backend development (especially Firebase), database basics, and improving my Python problem-solving skills.<br>🌱 I’m currently learning Python (beginner level)<br><br>Web development fundamentals<br><br>Firebase basics<br><br>Graphic designing<br><br>Computer and mobile hardware concepts<br>💬 Ask me about Computer and mobile hardware<br><br>HTML & CSS basics<br><br>Beginner Python concepts<br><br>Learning paths for new tech student<br>⚡ Fun fact I enjoy testing new technology features, but I always prefer systems that are stable, smooth, and lag-free.
+### Hi there 👋
 
+- 🔭 **Currently working on:** Simple HTML/CSS sites & a study-visa consultancy portal.
+- 🌱 **Learning:** Python, Web Fundamentals, Firebase, and Graphic Design.
+- 👯 **Looking to collaborate on:** Beginner-friendly web projects & UI designs.
+- 🤝 **Seeking help with:** Backend logic (Firebase) & Python problem solving.
+- 💬 **Ask me about:** Computer/Mobile hardware & HTML/CSS basics.
+- ⚡ **Fun fact:** I love new tech, but I value stability and speed above all else.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/محمد أرسلان) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammad_arslan_4) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ arslan.4p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Arslan_4p) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ma7448487@gmail.com) 
