@@ -7,7 +7,7 @@ Python learner. Aiming to become a Machine Learning Engineer.
 - Learning NumPy and Data Science libraries
 - Working toward my first ML model
   
-![Profile Views](https://komarev.com/ghpvc/?username=arslan48&color=blue&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan48.arslan48&left_color=gray&right_color=blue&left_text=visitors)
 
 ### Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
