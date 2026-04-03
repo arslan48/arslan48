@@ -6,6 +6,8 @@ Python learner. Aiming to become a Machine Learning Engineer.
 - Building a strong Python foundation
 - Learning NumPy and Data Science libraries
 - Working toward my first ML model
+  
+![Profile Views](https://komarev.com/ghpvc/?username=arslan48&color=blue&style=flat-square)
 
 ### Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
